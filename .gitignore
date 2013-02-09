@@ -2,3 +2,5 @@ libraries/*
 app/resources/tmp/*
 access.log
 error.log
+.DS_Store
+script/.DS_Store
