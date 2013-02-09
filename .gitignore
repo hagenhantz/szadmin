@@ -1,2 +1,4 @@
 libraries/*
 app/resources/tmp/*
+access.log
+error.log
